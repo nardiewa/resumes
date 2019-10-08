@@ -6,7 +6,7 @@ pnardiewarner@gmail.com
 
 ### About
 
-I discovered UX Design by chance after seeing my brother struggle to use technology designed to help him. I became passionate about UX after seeing my brother struggle to use technology designed to help him. After a brain injury affected his short term memory, he struggled to stay on task long enough for productivity tools to help him. When we found methods that did work, he felt in control of the experience and gained confidence in his own independence. I became intrigued by how design determines interaction for different people and how this subsequently affects personal experiences.  After learning more about the design process, I decided to change my career and apply my research background to generate design solutions that affect individuals. I aim to be a designer that empathizes with others and balances aestheticism with research insights as a means to engender inclusivity and awareness.
+I discovered UX Design by chance after seeing my brother struggle to use technology designed to help him. After a brain injury affected his short term memory, my brother struggled to stay on task long enough for productivity tools to help him. When we found methods that did work, he felt in control of the experience and gained confidence in his own independence. I became intrigued by how design determines interaction for different people and how this subsequently affects personal experiences.  After learning more about the design process, I decided to change my career and apply my research background to generate design solutions that affect individuals. I aim to be a designer that empathizes with others and balances aestheticism with research insights as a means to engender inclusivity and awareness.
 
 Previously, I worked in academia after I received my M.A. in Social Sciences at the University of Chicago. I designed and conducted independent research, employing interview practices and qualitative methodologies, that examined how people reacted to and interacted under negative circumstances. I also worked as a Research Assistant and gleaned a wider breadth of research a collaborative practices. This awareness of research principles and application enhances my process and bolsters my designs.
 
@@ -64,21 +64,21 @@ Sept 2013 - Aug 2014
 
 **Design**
 
-+Research  
-+Wireframing  
-+A/B Testing  
-+Prototyping  
+Research  
+Wireframing  
+A/B Testing  
+Prototyping  
 
 **Technical**
 
-+Figma + Sketch  
-+InVision + Principle  
-+HTML + CSS  
-+Adobe Creative Suite  
+Figma + Sketch  
+InVision + Principle  
+HTML + CSS  
+Adobe Creative Suite  
 
 **Other**
 
-+French + Korean  
-+Conflict Management  
-+Teaching + Mentoring  
-+Organization  
+French + Korean  
+Conflict Management  
+Teaching + Mentoring  
+Organization  
