@@ -38,7 +38,8 @@ Sept 2013 - Aug 2014
 
 ### Projects
 
-**Zeit** | Branding and Responsive Design  
+**Zeit** | Branding and Responsive Design 
+DesignLab Project
 
 >Designed and prototyped a responsive travel site to introduce new modes of travel and facilitate user flows. Branded and created style identity to bridge a classic vibe with a modern aesthetic. You can read the full [Case Study](http://amypippa.com/zeit) and interact with the [Prototype](https://invis.io/H7TM3GB2B9F).
 
