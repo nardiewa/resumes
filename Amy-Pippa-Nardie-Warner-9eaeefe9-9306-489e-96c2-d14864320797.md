@@ -31,17 +31,17 @@ I discovered UX Design by chance after seeing my brother struggle to use technol
 **Weatherhead East Asian Institute** | IT Administrative Assistant  
 Dec 2018 - Present
 
-Overhauled the design of the Institute’s website to create a fresh brand for 70th Anniversary. Redesigned the information architecture to maintain consistency and clarity for users. As part of my role as lead IT support, I organized and maintained website and digital information for the Institute, creating graphics and content as needed. This included restructuring the archiving system and share drive organization to ensure longevity for the Institute’s information.
+>Overhauled the design of the Institute’s website to create a fresh brand for 70th Anniversary. Redesigned the information architecture to maintain consistency and clarity for users. As part of my role as lead IT support, I organized and maintained website and digital information for the Institute, creating graphics and content as needed. This included restructuring the archiving system and share drive organization to ensure longevity for the Institute’s information.
 
 **eupnea** | UX/UI Designer  
 Sept 2019 - Present
 
-Independently conducted user research, designed and tested mid and high-fidelty prototypes for a responsive ecommerce site that highlighted eupnea’s philosophy and creative process in an effort to establish trust and an easy shopping experience with a wider customer base.
+>Independently conducted user research, designed and tested mid and high-fidelty prototypes for a responsive ecommerce site that highlighted eupnea’s philosophy and creative process in an effort to establish trust and an easy shopping experience with a wider customer base.
 
 **University of Chicago** | Graduate Student Research Assistant  
 Sept 2016 - Aug 2017
 
-Facilitating the principal investigator’s research objectives, I handled a variety of qualitative and quantitative data. Translating (French) when necessary, I digitized archived-primary sources and proceeded to synthesize information into digestible deliverables for the PI.
+>Facilitating the principal investigator’s research objectives, I handled a variety of qualitative and quantitative data. Translating (French) when necessary, I digitized archived-primary sources and proceeded to synthesize information into digestible deliverables for the PI.
 
 **New Pathway Education** | Head Teacher  
 Sept 2013 - Aug 2014
@@ -52,7 +52,7 @@ Sept 2013 - Aug 2014
 
 **Zeit** | Branding and Responsive Design  
 
-Designed and prototyped a responsive travel site to introduce new modes of travel and facilitate user flows. Branded and created style identity to bridge a classic vibe with a modern aesthetic. You can read the full [Case Study](http://amypippa.com/zeit) and interact with the [Prototype](https://invis.io/H7TM3GB2B9F).
+>Designed and prototyped a responsive travel site to introduce new modes of travel and facilitate user flows. Branded and created style identity to bridge a classic vibe with a modern aesthetic. You can read the full [Case Study](http://amypippa.com/zeit) and interact with the [Prototype](https://invis.io/H7TM3GB2B9F).
 
 ---
 
@@ -60,21 +60,21 @@ Designed and prototyped a responsive travel site to introduce new modes of trave
 
 **Design**
 
-Research  
+>Research  
 Wireframing  
 A/B Testing  
 Prototyping  
 
 **Technical**
 
-Figma + Sketch  
+>Figma + Sketch  
 InVision + Principle  
 HTML + CSS  
 Adobe Creative Suite  
 
 **Other**
 
-French + Korean  
+>French + Korean  
 Conflict Management  
 Teaching + Mentoring  
 Organization  
