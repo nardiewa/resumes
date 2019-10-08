@@ -6,23 +6,11 @@ pnardiewarner@gmail.com
 
 ### About
 
-I discovered UX Design by chance after seeing my brother struggle to use technology designed to help him. After exploring the design process, I decided to change my career and apply my research background to bolster design solutions that affect individuals. I aim to be a designer that empathizes with others and balances aestheticism with research insights as a means to engender inclusivity and awareness.
+I discovered UX Design by chance after seeing my brother struggle to use technology designed to help him. I became passionate about UX after seeing my brother struggle to use technology designed to help him. After a brain injury affected his short term memory, he struggled to stay on task long enough for productivity tools to help him. When we found methods that did work, he felt in control of the experience and gained confidence in his own independence. I became intrigued by how design determines interaction for different people and how this subsequently affects personal experiences.  After learning more about the design process, I decided to change my career and apply my research background to generate design solutions that affect individuals. I aim to be a designer that empathizes with others and balances aestheticism with research insights as a means to engender inclusivity and awareness.
 
----
+Previously, I worked in academia after I received my M.A. in Social Sciences at the University of Chicago. I designed and conducted independent research, employing interview practices and qualitative methodologies, that examined how people reacted to and interacted under negative circumstances. I also worked as a Research Assistant and gleaned a wider breadth of research a collaborative practices. This awareness of research principles and application enhances my process and bolsters my designs.
 
-### Education
-
-**DesignLab** 
-| UX Design Certificate
-| June - Dec 2019
-
-**University of Chicago**
-| MA Social Sciences
-| Sept 2016 - Aug 2017
-
-**Grinnell College**
-| BA French + Philosophy
-| Aug 2009 - May 2013
+Currently I am finishing my User Experience Design Certificate and looking for new opportunities. Please feel free to reach out with quesions or if you are interested in collaborating. Looking forward to hearing from you.
 
 ---
 
@@ -53,6 +41,22 @@ Sept 2013 - Aug 2014
 **Zeit** | Branding and Responsive Design  
 
 >Designed and prototyped a responsive travel site to introduce new modes of travel and facilitate user flows. Branded and created style identity to bridge a classic vibe with a modern aesthetic. You can read the full [Case Study](http://amypippa.com/zeit) and interact with the [Prototype](https://invis.io/H7TM3GB2B9F).
+
+---
+
+### Education
+
+**DesignLab** 
+| UX Design Certificate
+| June - Dec 2019
+
+**University of Chicago**
+| MA Social Sciences
+| Sept 2016 - Aug 2017
+
+**Grinnell College**
+| BA French + Philosophy
+| Aug 2009 - May 2013
 
 ---
 
