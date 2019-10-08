@@ -1,16 +1,8 @@
 # Amy Pippa Nardie-Warner
 
-Portfolio
-
-amypippa.com
-
-Email
-
-pnardiewarner@gmail.com
-
-Phone
-
-314.374.4823
+[Portfolio](http://amypippa.com/)  
+pnardiewarner@gmail.com  
+314.374.4823  
 
 ### About
 
