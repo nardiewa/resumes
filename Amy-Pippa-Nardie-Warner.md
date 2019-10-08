@@ -65,7 +65,7 @@ DesignLab Project
 
 **Design**
 
-Research  
+        Research  
 Wireframing  
 A/B Testing  
 Prototyping  
