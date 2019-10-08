@@ -60,21 +60,21 @@ Sept 2013 - Aug 2014
 
 **Design**
 
--Research  
--Wireframing  
--A/B Testing  
--Prototyping  
++Research  
++Wireframing  
++A/B Testing  
++Prototyping  
 
 **Technical**
 
--Figma + Sketch  
--InVision + Principle  
--HTML + CSS  
--Adobe Creative Suite  
++Figma + Sketch  
++InVision + Principle  
++HTML + CSS  
++Adobe Creative Suite  
 
 **Other**
 
--French + Korean  
--Conflict Management  
--Teaching + Mentoring  
--Organization  
++French + Korean  
++Conflict Management  
++Teaching + Mentoring  
++Organization  
